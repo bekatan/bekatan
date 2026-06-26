@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bekatan Satyev</h1>
-<h3 align="center">A passionate Software Engineer from Kyrgyzstan</h3>
-
-- 🌱 I’m currently learning **Chrome Extension Development**
-
-- 💬 Ask me about **Spring, Vue.JS, ROS, OpenAI API**
-
-- 📫 How to reach me **bekatans@gmail.com**
+<h3 align="center">A Software Engineer from Kyrgyzstan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
